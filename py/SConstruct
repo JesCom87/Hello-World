@@ -1,0 +1,12 @@
+import subprocess
+import sys
+
+def run_hello(target, source, env):
+    subprocess.check_call([sys.executable, "hello.py"])
+    return 0
+
+env = Environment()
+
+env.Command("run", [], run_hello)
+
+Default("run")
