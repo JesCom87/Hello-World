@@ -1,0 +1,11 @@
+/data/data/com.termux/files/home/HelloWorld/build/CMakeFiles/c_build.dir
+/data/data/com.termux/files/home/HelloWorld/build/CMakeFiles/c_run.dir
+/data/data/com.termux/files/home/HelloWorld/build/CMakeFiles/cpp_configure.dir
+/data/data/com.termux/files/home/HelloWorld/build/CMakeFiles/cpp_build.dir
+/data/data/com.termux/files/home/HelloWorld/build/CMakeFiles/cpp_run.dir
+/data/data/com.termux/files/home/HelloWorld/build/CMakeFiles/py_run.dir
+/data/data/com.termux/files/home/HelloWorld/build/CMakeFiles/java_build.dir
+/data/data/com.termux/files/home/HelloWorld/build/CMakeFiles/java_run.dir
+/data/data/com.termux/files/home/HelloWorld/build/CMakeFiles/all_everything.dir
+/data/data/com.termux/files/home/HelloWorld/build/CMakeFiles/edit_cache.dir
+/data/data/com.termux/files/home/HelloWorld/build/CMakeFiles/rebuild_cache.dir
