@@ -9,14 +9,10 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
   "/data/data/com.termux/files/home/HelloWorld/CMakeLists.txt"
   "CMakeFiles/4.3.4/CMakeSystem.cmake"
-  "/data/data/com.termux/files/usr/share/cmake-4.3/Modules/CMakeDetermineSystem.cmake"
   "/data/data/com.termux/files/usr/share/cmake-4.3/Modules/CMakeGenericSystem.cmake"
   "/data/data/com.termux/files/usr/share/cmake-4.3/Modules/CMakeInitializeConfigs.cmake"
-  "/data/data/com.termux/files/usr/share/cmake-4.3/Modules/CMakeSystem.cmake.in"
   "/data/data/com.termux/files/usr/share/cmake-4.3/Modules/CMakeSystemSpecificInformation.cmake"
   "/data/data/com.termux/files/usr/share/cmake-4.3/Modules/CMakeSystemSpecificInitialize.cmake"
-  "/data/data/com.termux/files/usr/share/cmake-4.3/Modules/CMakeUnixFindMake.cmake"
-  "/data/data/com.termux/files/usr/share/cmake-4.3/Modules/Platform/Android-Determine.cmake"
   "/data/data/com.termux/files/usr/share/cmake-4.3/Modules/Platform/Android-Initialize.cmake"
   "/data/data/com.termux/files/usr/share/cmake-4.3/Modules/Platform/Android.cmake"
   "/data/data/com.termux/files/usr/share/cmake-4.3/Modules/Platform/Linux-Initialize.cmake"
@@ -32,7 +28,6 @@ set(CMAKE_MAKEFILE_OUTPUTS
 
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
-  "CMakeFiles/4.3.4/CMakeSystem.cmake"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 

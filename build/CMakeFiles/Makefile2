@@ -356,8 +356,8 @@ CMakeFiles/java_run.dir/clean:
 # All Build rule for target.
 CMakeFiles/all_everything.dir/all: CMakeFiles/cpp_run.dir/all
 CMakeFiles/all_everything.dir/all: CMakeFiles/c_run.dir/all
-CMakeFiles/all_everything.dir/all: CMakeFiles/java_run.dir/all
 CMakeFiles/all_everything.dir/all: CMakeFiles/py_run.dir/all
+CMakeFiles/all_everything.dir/all: CMakeFiles/java_run.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/all_everything.dir/build.make CMakeFiles/all_everything.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/all_everything.dir/build.make CMakeFiles/all_everything.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/data/data/com.termux/files/home/HelloWorld/build/CMakeFiles --progress-num= "Built target all_everything"
@@ -377,8 +377,8 @@ all_everything: CMakeFiles/all_everything.dir/rule
 # codegen rule for target.
 CMakeFiles/all_everything.dir/codegen: CMakeFiles/cpp_run.dir/all
 CMakeFiles/all_everything.dir/codegen: CMakeFiles/c_run.dir/all
-CMakeFiles/all_everything.dir/codegen: CMakeFiles/java_run.dir/all
 CMakeFiles/all_everything.dir/codegen: CMakeFiles/py_run.dir/all
+CMakeFiles/all_everything.dir/codegen: CMakeFiles/java_run.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/all_everything.dir/build.make CMakeFiles/all_everything.dir/codegen
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/data/data/com.termux/files/home/HelloWorld/build/CMakeFiles --progress-num= "Finished codegen for target all_everything"
 .PHONY : CMakeFiles/all_everything.dir/codegen
